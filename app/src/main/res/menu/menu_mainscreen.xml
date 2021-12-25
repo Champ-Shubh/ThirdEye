@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item_switch"
+        android:icon="@drawable/ic_mic_light"
+        android:title="@string/switch_screen"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/item_camera"
+        android:icon="@drawable/ic_camera_flip"
+        android:title="@string/flip_camera"
+        app:showAsAction="ifRoom"/>
+</menu>

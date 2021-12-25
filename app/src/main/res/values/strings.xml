@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Third Eye</string>
+    <string name="welcome_command">Say START to begin</string>
+    <string name="explore">Explore</string>
+    <string name="face_search">Face Search</string>
+    <string name="find">Find</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="item_find_text">Searching %s around you</string>
+    <string name="switch_screen">Switch Screen</string>
+    <string name="hint_enter_name_of_person">Enter name of person</string>
+    <string name="hint_enter_relation_with_user">Enter relation with user</string>
+    <string name="flip_camera">Flip Camera</string>
+    <string name="desc_img_app_logo">App Logo</string>
+    <string name="desc_img_list_item">List item image</string>
+    <string name="sort">Sort</string>
+    <string name="filter">Filter</string>
+</resources>
